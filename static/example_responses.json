@@ -1,0 +1,11 @@
+{
+    "reviews_count": 100,
+    "reviews": [
+        {
+            "title": "Amazing Product!",
+            "body": "This is the best product I've ever purchased.",
+            "rating": 5,
+            "reviewer": "John Doe"
+        }
+    ]
+}
